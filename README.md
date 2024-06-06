@@ -1,6 +1,8 @@
 # EE4205
 
-Notes for [EE4205 Quantum Communication and Cryptography](https://nusmods.com/courses/EE4205/quantum-communication-and-cryptography), AY23/24 Semester 2. Taught by Dr. Marco Tomamichel with research fellow Enrique Cervero as his teaching assistant. Accompanying literature: [Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B) (Chapters 1-8).
+Notes for [EE4205 Quantum Communication and Cryptography](https://nusmods.com/courses/EE4205/quantum-communication-and-cryptography), AY23/24 Semester 2. Taught by Dr. Marco Tomamichel with research fellow Enrique Cervero as his teaching assistant. 
+
+Accompanying literature: [Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B) (Chapters 1-8). Additional reading: [CS120, Quantum Cryptography](http://users.cms.caltech.edu/~vidick/teaching/120_qcrypto/index.html)
 
 This is a very theroetical course. In fact, I see no reason why it is labelled EE rather than MA given that it is almost all pure mathematics. If you have poor linear algebraic skills, I do not recommend taking this course. Additionally, it is highly advised to take this with some prior knowledge of cryptography and quantum mechanics. A majority of the material is taught without contextual explanations under the assumption that you are already aware of how things should operate in quantum systems, and also what cryptanalytical goals should be met by cryptographic protocols.
 
