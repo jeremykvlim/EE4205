@@ -11,3 +11,5 @@ Grading scheme:
 * 60% from open-book final exam
 * 20% from 4x in-class unannounced open-book quizzes (students are highly incentivised to attend all classes in case the quiz is on that date, and also expected to be up to date with course material at all times)
 * 20% from homework (6 homework assignments of 20 marks each, released on a fortnightly basis, but you can only claim up to 100/120 marks in total; fret not, hardly anyone even reaches this threshold as the homework difficulty is high - the average was 12/20 for one of the easier assignments)
+
+Final grade: A
