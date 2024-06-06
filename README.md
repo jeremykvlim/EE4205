@@ -4,7 +4,7 @@ Notes for [EE4205 Quantum Communication and Cryptography](https://nusmods.com/co
 
 Accompanying literature: [Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B) (Chapters 1-8)
 
-Additional reading: [Caltech CS120, Quantum Cryptography](http://users.cms.caltech.edu/~vidick/teaching/120_qcrypto/index.html)
+Additional reading: [Caltech CS/PH 120 Quantum Cryptography](http://users.cms.caltech.edu/~vidick/teaching/120_qcrypto/index.html)
 
 This is a very theroetical course. In fact, I see no reason why it is labelled EE rather than MA given that it is almost all pure mathematics. If you have poor linear algebraic skills, I do not recommend taking this course. Additionally, it is highly advised to take this with some prior knowledge of cryptography and quantum mechanics. A majority of the material is taught without contextual explanations under the assumption that you are already aware of how things should operate in quantum systems, and also what cryptanalytical goals should be met by cryptographic protocols.
 
